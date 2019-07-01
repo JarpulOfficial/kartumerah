@@ -1,0 +1,38 @@
+{
+  "name": "KartuMerah.ID",
+  "short_name": "KartuMerah",
+  "start_url": "https://www.kartumerah.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s48/kartumerah-logo.jpg",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s72/kartumerah-logo.jpg",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s96/kartumerah-logo.jpg",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s144/kartumerah-logo.jpg",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s168/kartumerah-logo.jpg",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s192/kartumerah-logo.jpg",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--7C0xRo7IxU/XRqN-iJgQvI/AAAAAAAAEB8/SXEGVEwvAj0FS-2eeBIwLrVD7BkiFBTDACLcBGAs/s512/kartumerah-logo.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
